@@ -1,6 +1,6 @@
 ## About Me :page_with_curl:
-Hi! my name is Álvaro Santos Romero.  
-Currently studying **Computer Science** in University of Cádiz (**UCA**).
+Hi! my name is Álvaro Santos Romero.
+Currently studying **Computer Science** in University of Cádiz (**UCA**).<br>
 Experience:
 * Backend Developer (PHP)
 * SQL databases
