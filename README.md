@@ -6,9 +6,11 @@ Currently studying **Computer Science** in University of Cádiz (**UCA**).<br>
 * Backend Developer (PHP)
 * SQL databases
 * C++
+* Java
 * C
 * Python
 * Linux Servers
+* PC/servers assembly
 
 ## Links
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/EviLAsRz)
