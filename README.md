@@ -14,6 +14,11 @@ Currently, i have learned and developed skills in:
 * JavaScript
 * Python
 
+**Databases**
+
+* MySQL, MariaDB, SQLite
+* MongoDB
+
 **Ops**
 
 * Linux, trueNAS
