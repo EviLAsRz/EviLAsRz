@@ -27,6 +27,11 @@ Currently, i have learned and developed skills in:
 * Docker, Kubernetes
 * AWS cloud
 
+**Misc**
+
+* LaTeX
+* Markdown
+
 ## Links
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/EviLAsRz)
 [![twitter](https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvaro-santos-romero-915212225/)
