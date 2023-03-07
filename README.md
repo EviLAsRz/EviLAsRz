@@ -21,7 +21,7 @@ Currently, i have learned and developed skills in:
 
 **Ops**
 
-* Linux, trueNAS
+* Linux, freeNAS
 * Bash, Lua
 * Apache, nginx
 * Docker, Kubernetes
