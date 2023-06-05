@@ -29,6 +29,7 @@ Currently, i have learned and developed skills in:
 
 **Misc**
 
+* Unity 3D
 * LaTeX
 * Markdown
 
