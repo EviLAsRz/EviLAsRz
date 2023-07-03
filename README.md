@@ -13,6 +13,7 @@ Currently, i have learned and developed skills in:
 * Java
 * JavaScript
 * Python
+* Unity 3D
 
 **Databases**
 
@@ -29,7 +30,6 @@ Currently, i have learned and developed skills in:
 
 **Misc**
 
-* Unity 3D
 * LaTeX
 * Markdown
 
