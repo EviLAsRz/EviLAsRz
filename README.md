@@ -22,7 +22,7 @@ Currently, i have learned and developed skills in:
 
 **Ops**
 
-* Linux, freeNAS
+* Linux, freeNAS, Proxmox
 * Bash, Lua
 * Apache, nginx
 * Docker, Kubernetes
