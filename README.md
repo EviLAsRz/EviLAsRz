@@ -1,5 +1,5 @@
 ## About Me :page_with_curl:
-Hi! my name is Álvaro Santos, 23. <br>
+Hi! my name is Álvaro Santos, 24. <br>
 Currently studying **Computer Science** in University of Cádiz, Spain.<br>
 
 **Skills** :computer: <br>
